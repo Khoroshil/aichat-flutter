@@ -1,0 +1,37 @@
+# Конфиденциальные данные
+settings.json
+stats.json
+
+# Сборка и временные файлы
+build/
+dist/
+*.apk
+*.aab
+*.pyc
+__pycache__/
+
+# Python
+*.egg-info/
+*.egg
+.eggs/
+.pytest_cache/
+.coverage
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
